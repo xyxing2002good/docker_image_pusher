@@ -1,7 +1,18 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-redis:8.8-rc1-trixie
+redis:7.0-alpine
+paradedb/paradedb:v0.22.2-pg17
+busybox:1.36
+searxng/searxng:latest
+minio/minio:RELEASE.2025-09-07T16-13-09Z
+jaegertracing/all-in-one:1.76.0
+neo4j:2025.10.1
+qdrant/qdrant:v1.16.2
+milvusdb/milvus:v2.6.11
+semitechnologies/weaviate:1.28.4
+apache/doris:fe-4.1.0
+apache/doris:be-4.1.0
+dexidp/dex:latest
+paradedb/paradedb:v0.22.2-pg17
+clickhouse/clickhouse-server:24.8
+minio/minio:RELEASE.2025-09-07T16-13-09Z
+langfuse/langfuse-worker:3
+langfuse/langfuse:3
