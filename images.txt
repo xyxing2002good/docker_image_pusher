@@ -16,7 +16,6 @@ clickhouse/clickhouse-server:24.8
 minio/minio:RELEASE.2025-09-07T16-13-09Z
 langfuse/langfuse-worker:3
 langfuse/langfuse:3
-moby/buildkit:buildx-stable-1
 wechatopenai/weknora-ui:latest
 wechatopenai/weknora-app:latest
 wechatopenai/weknora-sandbox:latest
