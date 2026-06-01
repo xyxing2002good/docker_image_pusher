@@ -1,5 +1,7 @@
-opengauss/opengauss:7.0.0-RC1
-matrixorigin/matrixone:2.1.1
-docker.elastic.co/elasticsearch/elasticsearch:8.14.3
-docker.elastic.co/kibana/kibana:8.14.3
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
+busybox:latest
+langgenius/dify-web:1.14.2
+semitechnologies/weaviate:1.27.0
+langgenius/qdrant:v1.8.3
+tensorchord/pgvecto-rs:pg16-v0.3.0
+milvusdb/milvus:v2.6.3
+myscale/myscaledb:1.6.4
