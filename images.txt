@@ -1,1 +1,6 @@
+bitnamilegacy/etcd:3.5.11
+nginx:1.19.0-alpine
+prom/prometheus:v2.25.0
+grafana/grafana:7.3.7
+apache/apisix:${APISIX_IMAGE_TAG:-3.19.0-debian}
 apache/apisix:latest
